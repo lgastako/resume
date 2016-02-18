@@ -26,23 +26,20 @@ Co-founded and helped lead a team building a machine-learning based business
 intelligence solution to improve performance of sales teams.
 
 
-**Atomic Labs (San Francisco CA)**
-
+**Atomic Labs (San Francisco CA)**<br>
 *Software Engineer, 1/2014(?) - ?*
 
 Helped fill gaps in portfolio companies' software development needs.
 
 
-**Suprmasv (Los Angeles, CA)**
-
+**Suprmasv (Los Angeles, CA)**<br>
 *Co-founder and CTO, ? - 1/2014(?)*
 
 Co-founded and helped lead a team building a marketplace for hackers, tinkers,
 inventors, and makers.
 
 
-**eBay (San Jose, CA)**
-
+**eBay (San Jose, CA)**<br>
 *Software Engineer, 12/2010 - 2/2012(?)*
 
 Arriving at eBay via the Milo.com acquisition I helped integrate Milo's
@@ -50,16 +47,14 @@ technology with eBay and other eBay acquisitions as well as developing
 next-generation crawling technology.
 
 
-**Milo.com (Palo Alto, CA)**
-
+**Milo.com (Palo Alto, CA)**<br>
 *Co-Founder and CTO, ? - 12/2010*
 
 Co-founded and helped lead a team building a comparison shopping engine for
 local stores.  Raised $5m in funding.  Acquired by eBay for $75m.
 
 
-**J.P. Evans, Inc. (Reston, VA)**
-
+**J.P. Evans, Inc. (Reston, VA)**<br>
 *Founder and President, ? - ?*
 
 Founded and lead my own software development consulting company servicing
