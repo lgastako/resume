@@ -20,8 +20,10 @@ experienced and comfortable with many others.
 ## Professional Experience
 
 <dl>
-<dt> **TalkIQ (San Francisco, CA)** *Co-founder and Software Engineer, ? - 1/2016* </dt>
+<dt> **TalkIQ (San Francisco, CA)**
+</dt>
 <dd>
+*Co-founder and Software Engineer, ? - 1/2016*
 Co-founded and helped lead a team building a machine-learning based business
 intelligence solution to improve performance of sales teams.
 </dd>
