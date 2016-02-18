@@ -19,12 +19,13 @@ experienced and comfortable with many others.
 
 ## Professional Experience
 
-> **TalkIQ (San Francisco, CA)**
-> *Co-founder and Software Engineer, ? - 1/2016*
-
+<dl>
+<dt> **TalkIQ (San Francisco, CA)** *Co-founder and Software Engineer, ? - 1/2016* </dt>
+<dd>
 Co-founded and helped lead a team building a machine-learning based business
 intelligence solution to improve performance of sales teams.
-
+</dd>
+</dl>
 
 **Atomic Labs (San Francisco CA)**
 
