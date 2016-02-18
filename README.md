@@ -13,8 +13,9 @@ most of my career, but I have always been a polyglot developer at heart.  The
 vast majority of my professional career has been spent doing some sort of web
 based development in various environments (Java, ASP, ASP.NET, Ruby/Rails,
 Python/Django, Clojure/ClojureScript) but I am comfortable with other languages
-and enviroments as well. I have strong database skills.  I prefer PostgreSQL
-but am comfortable with many other SQL and NoSQL datastores.
+and enviroments as well. I have strong SQL and database skills.  PostgreSQL and
+Redis are my favorite SQL and NoSQL datastores respectively, but I am
+experienced and comfortable with many others.
 
 ## Professional Experience
 
