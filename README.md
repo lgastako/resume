@@ -19,11 +19,19 @@ experienced and comfortable with many others.
 
 ## Professional Experience
 
+**Superpowers Corp (Boulder, CO)**<br>
+*Co-founder and Software Engineer, 2017-Present*
+
+Co-founded and lead development of Slack-based Chatbot and Smart To-Do List
+mobile app.
+
+
 **TalkIQ (San Francisco, CA)**<br>
 *Co-founder and Software Engineer, 2014 - 2016*
 
 Co-founded and helped lead a team building a machine-learning based business
-intelligence solution to improve performance of sales teams.
+intelligence solution to improve performance of sales teams.  Acquired by
+DialPad for $50m.
 
 
 **Atomic Labs (San Francisco CA)**<br>
