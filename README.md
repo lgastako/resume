@@ -4,7 +4,8 @@ Github http://github.com/lgastako/
 
 ## Objective
 
-Contribute to something meaningful while I plan the next phase of my life.
+Be part of a strong team that is building something interesting and useful
+where my skills can add significant value.
 
 ## Skills
 
