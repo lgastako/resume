@@ -13,7 +13,7 @@ I have worked in technology leadership roles (Lead Developer, CTO, etc) for
 most of my career, but I have always been a polyglot developer at heart.  The
 vast majority of my professional career has been spent doing some sort of web
 based development in various environments (C, Java, ASP, ASP.NET, Ruby/Rails,
-Python/Django, Clojure/ClojureScript and Haskell) but I am comfortable with
+Python/Django, Clojure/ClojureScript and Elm/Haskell) but I am comfortable with
 other languages and enviroments as well. I have strong SQL and database skills.
 PostgreSQL and Redis are my favorite SQL and NoSQL datastores respectively, but
 I am experienced and comfortable with many others.
