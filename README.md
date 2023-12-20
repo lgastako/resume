@@ -20,8 +20,13 @@ I am experienced and comfortable with many others.
 
 ## Professional Experience
 
+**Interos Inc.**<br>
+*VP Engineering, 2018-Present*
+
+Built and manage the front end software development team.
+
 **Superpowers Corp (Boulder, CO)**<br>
-*Co-founder and Software Engineer, 2017-Present*
+*Co-founder and Software Engineer, 2017-2018*
 
 Co-founded and lead development of Slack-based Chatbot and Smart To-Do List
 mobile app.
