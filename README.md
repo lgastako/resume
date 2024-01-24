@@ -21,9 +21,12 @@ I am experienced and comfortable with many others.
 ## Professional Experience
 
 **Interos Inc.**<br>
-*VP Engineering, 2018-Present*
+*VP Engineering, 2018-1/2024*
 
-Built and manage the front end software development team.
+Helped build the engineering organization from the ground up. Built and managed
+the front end software development team, which was consistently one of the top
+performing teams in the company for my entire tenure.
+
 
 **Superpowers Corp (Boulder, CO)**<br>
 *Co-founder and Software Engineer, 2017-2018*
@@ -33,7 +36,7 @@ mobile app.
 
 
 **TalkIQ (San Francisco, CA)**<br>
-*Co-founder and Software Engineer, 2014 - 2016*
+*Co-founder and Software Engineer, 2014-2016*
 
 Co-founded and helped lead a team building a machine-learning based business
 intelligence solution to improve performance of sales teams.  Acquired by
@@ -83,4 +86,4 @@ Commix, Proxicom, Discovery Channel, Comscore, Cyvellliance and others.
 
 ## References
 
-I'm happy to provide references from anywhere I've worked when the time comes.
+I'm happy to provide references when the time comes.
