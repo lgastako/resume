@@ -4,8 +4,9 @@ Github http://github.com/lgastako/
 
 ## Objective
 
-I want to be part of a strong team that is building something interesting and useful
-where my skills can add significant value.  I like to stay close to the technology.
+I want to be part of a strong team that is building something interesting and
+useful where my skills can add significant value. I like to stay close to the
+technology.
 
 ## Skills
 
