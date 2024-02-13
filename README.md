@@ -4,9 +4,11 @@ Github http://github.com/lgastako/
 
 ## Objective
 
-I want to be part of a strong team that is building something interesting and
-useful where my skills can add significant value. I like to stay close to the
-technology.
+Motivated and innovative software engineer with over a decade of experience
+in leading engineering teams, designing cutting-edge tools, and fostering
+collaboration across departments. Seeking to leverage extensive background
+in tool development, AI integrations, and team leadership to contribute to
+the Engineering Acceleration team at OpenAI.
 
 ## Skills
 
@@ -24,10 +26,12 @@ I am experienced and comfortable with many others.
 **Interos Inc.**<br>
 *VP Engineering, 2018-1/2024*
 
-Helped build the engineering organization from the ground up. Built and managed
-the front end software development team, which was consistently one of the top
-performing teams in the company for my entire tenure.
-
+Helped grow the engineering team from 4 to over 200, transitioning from hands-on
+development to strategic leadership. Managed the highest performing team
+(FrontEnd), emphasizing psychological safety and radical candor, resulting in
+exceptional team satisfaction and productivity. Spearheaded the integration of
+GitHub Copilot, driving the adoption of generative AI tools that enhanced
+development efficiency and innovation.
 
 **Superpowers Corp (Boulder, CO)**<br>
 *Co-founder and Software Engineer, 2017-2018*
@@ -71,6 +75,10 @@ next-generation crawling technology.
 Co-founded and helped lead a team building a comparison shopping engine for
 local stores.  Raised $5m in funding.  Acquired by eBay for $75m.
 
+Created the Crawler Construction Kit (CCK), a dynamic web application enabling
+rapid addition of new store crawlers to the product catalog, significantly
+boosting content acquisition rate and scalability.
+
 
 **J.P. Evans, Inc. (Reston, VA)**<br>
 *Founder and President, 2001 - 2007*
@@ -87,4 +95,4 @@ Commix, Proxicom, Discovery Channel, Comscore, Cyvellliance and others.
 
 ## References
 
-I'm happy to provide references when the time comes.
+I'm happy to provide copious references when the time comes.
