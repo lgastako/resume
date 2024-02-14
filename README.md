@@ -4,12 +4,6 @@ Github http://github.com/lgastako/
 
 ## Objective
 
-Motivated and innovative software engineer with over a decade of experience
-in leading engineering teams, designing cutting-edge tools, and fostering
-collaboration across departments. Seeking to leverage extensive background
-in tool development, AI integrations, and team leadership to contribute to
-the Engineering Acceleration team at OpenAI.
-
 Enthusiastic software engineer with a passion for developing innovative AI
 solutions and a proven track record in leading engineering teams. Eager
 to contribute to Anthropic's mission of responsibly managing and advancing
