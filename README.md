@@ -87,5 +87,5 @@ Commix, Proxicom, Discovery Channel, Comscore, Cyvellliance and others.
 
 ## References
 
-Extension references available upon request.
+Extensive references available upon request.
 
