@@ -1,6 +1,6 @@
 # John Evans
 
-Github http://github.com/lgastako/
+[Github](http://github.com/lgastako/)
 
 ## Objective
 
