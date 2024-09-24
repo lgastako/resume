@@ -4,18 +4,18 @@
 
 ## Objective
 
-I want to be part of a strong team that is building something interesting and
-useful where my skills can add significant value. I have stayed close to the
-technology throughout my career and after a stint in management, I would like to
-get back to doing software development work as an individual contributor.
+I am seeking an Engineering Manager role on a strong team, where I can leverage
+my skills to drive meaningful impact. While I aim to manage and lead, I prefer
+to remain close to the technology and contribute hands-on when needed. I am also
+open to an individual contributor role if it aligns with my expertise and goals.
 
 ## Skills
 
-I have worked in technology leadership roles (Lead Developer, CTO, etc) for most
-of my career, but I have always been a polyglot developer at heart. Most
+I have worked in technology leadership roles (Lead Developer, startup CTO) for
+most of my career, but I have always been a polyglot developer at heart. Most
 recently, I've been working with pretty typical modern web stacks, primarily
 consisting of Next.js, React, Tailwind CSS, Zustand, Tanstack Query with Python
-powering FastAPI or Flask backends.
+powering FastAPI or Flask backends.  Mostly deployed on AWS via CDK.
 
 The vast majority of my professional career has been spent doing some sort of
 web based development in various environments (C, Java, ASP, ASP.NET,
@@ -39,7 +39,7 @@ initial integration of Looker BI as a feature of our product.
 
 Our technology stack was Next.js, React, Tailwind on the frontend talking to a
 Python/FastAPI backend in front of PostgreSQL. This was part of a microservices
-architecture interacting via Kafka.
+architecture interacting via Kafka.  Deployed on AWS.
 
 
 **Superpowers Corp (Boulder, CO)**<br>
@@ -49,7 +49,7 @@ Co-founded and lead development of Slack-based Chatbot and Smart To-Do List
 mobile app as well as Slack-based Chat bots.
 
 Technology stack included k8s/Docker, Elm, Haskell and JavaScript with a
-PostgreSQL database.
+PostgreSQL database.  Deployed on Google Cloud.
 
 
 **TalkIQ (San Francisco, CA)**<br>
@@ -60,7 +60,7 @@ intelligence solution to improve performance of sales teams.  Acquired by
 DialPad for $50m.
 
 Technology stack was primarily Python and PostgreSQL with assorted telephony
-components such as Twilio and Asterisk PBX.
+components such as Twilio and Asterisk PBX.  Deployed on AWS.
 
 
 **Atomic Labs (San Francisco CA)**<br>
@@ -70,6 +70,7 @@ Helped fill gaps in portfolio companies' software development needs.
 
 I worked several disparate technology stacks during this time but the largest
 portion of my time was spent working on a backend application written in Go.
+Deployed primarily on Google Cloud with some AWS.
 
 **Suprmasv (Los Angeles, CA)**<br>
 *Co-founder and CTO, 2012-2013*
@@ -78,7 +79,7 @@ Co-founded and helped lead a team building a marketplace for hackers, tinkers,
 inventors, and makers.
 
 The technology stack primarily consisted of Python, Django and Flask with MySQL
-databases.
+databases.  Deployed on AWS.
 
 
 **eBay (San Jose, CA)**<br>
@@ -89,7 +90,7 @@ technology with eBay and other eBay acquisitions as well as developing
 next-generation crawling technology.
 
 The core of our technology stack remained from Milo.com but we were integrating
-with a lot of Java-based internal web services.
+with a lot of Java-based internal web services.  Deployed internally.
 
 **Milo.com (Palo Alt o, CA)**<br>
 *Co-Founder and CTO, 2007 - 2010*
@@ -98,7 +99,7 @@ Co-founded and helped lead a team building a comparison shopping engine for
 local stores.  Raised $5m in funding.  Acquired by eBay for $75m.
 
 Technology stack was primarily Python, Django and Flask with PostgreSQL and
-Redis databases.
+Redis databases.  Deployed on Heroku and AWS.
 
 
 **J.P. Evans, Inc. (Reston, VA)**<br>
@@ -108,7 +109,7 @@ Founded and lead my own software development consulting company servicing
 Fortune 500 companies such as Freddie Mac and Verisign.
 
 Regrettably this period was filled with Lots of enterprise Java, JBoss, WebLogic
-and EJBs.
+and EJBs.  Deploy on-prem.
 
 
 ## Prior Experience
