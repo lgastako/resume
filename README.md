@@ -4,10 +4,9 @@
 
 ## Objective
 
-I am seeking an Engineering Manager role on a strong team, where I can leverage
-my skills to drive meaningful impact. While I aim to manage and lead, I prefer
-to remain close to the technology and contribute hands-on when needed. I am also
-open to an individual contributor role if it aligns with my expertise and goals.
+I am seeking an engineering role on a strong team, where I can leverage my
+skills to drive meaningful impact. I aim to comfortable managing and leading,
+but I prefer to remain close to the technology and contribute hands-on. 
 
 ## Skills
 
