@@ -8,7 +8,7 @@ show: ## Show the Makefile
 aliases: ## Show the aliases
 	@sed -n '/^# Aliases/,$$p' Makefile | sed -n '/^[a-zA-Z_-]\{1,\}: /p'
 
-build:
+build:  ## Build the pdf
 	pandoc -V colorlinks=true -V linkcolor=blue README.md -o resume.pdf
 
 # Aliases
