@@ -91,7 +91,7 @@ next-generation crawling technology.
 The core of our technology stack remained from Milo.com but we were integrating
 with a lot of Java-based internal web services.  Deployed internally.
 
-**Milo.com (Palo Alt o, CA)**<br>
+**Milo.com (Palo Alto, CA)**<br>
 *Co-Founder and CTO, 2007 - 2010*
 
 Co-founded and helped lead a team building a comparison shopping engine for
