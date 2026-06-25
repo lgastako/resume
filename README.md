@@ -28,17 +28,28 @@ many others.
 
 ## Professional Experience
 
+**Health Concierge**<br>
+*Senior Software Engineer*
+
+Design and implemented architecture and features for AI powered call center
+focused on user health data and tasks. Mentored developers and advised
+management on engineering and personnel issues.
+
+Technology stack: Primarily Svelte Frontend talking to python backend with
+PostgreSQL database.  Deployed on AWS.
+
+
 **Interos Inc.**<br>
 *VP Engineering, 2018-1/2024*
 
-Helped build the engineering organization from the ground up. Built and managed
-the front-end software development team, which was consistently one of the top
-performing teams in the company for my entire tenure. I also performed the
-initial integration of Looker BI as a feature of our product.
+Build the engineering organization from the ground up. Managed the front-end
+software development team, which was consistently the top performing team in the
+company for my entire tenure. Performed the initial integration of Looker BI as
+a feature of our product.
 
-Our technology stack was Next.js, React, Tailwind on the frontend talking to a
+Technology stack: Next.js, React, Tailwind on the frontend talking to a
 Python/FastAPI backend in front of PostgreSQL. This was part of a microservices
-architecture interacting via Kafka.  Deployed on AWS.
+architecture interacting via Kafka. Deployed on AWS.
 
 
 **Superpowers Corp (Boulder, CO)**<br>
@@ -47,8 +58,8 @@ architecture interacting via Kafka.  Deployed on AWS.
 Co-founded and lead development of Slack-based Chatbot and Smart To-Do List
 mobile app as well as Slack-based Chat bots.
 
-Technology stack included k8s/Docker, Elm, Haskell and JavaScript with a
-PostgreSQL database.  Deployed on Google Cloud.
+Technology stack: Kubernetes/Docker, Elm, Haskell and JavaScript with a
+PostgreSQL database. Deployed on Google Cloud.
 
 
 **TalkIQ (San Francisco, CA)**<br>
@@ -58,8 +69,8 @@ Co-founded and helped lead a team building a machine-learning based business
 intelligence solution to improve performance of sales teams.  Acquired by
 DialPad for $50m.
 
-Technology stack was primarily Python and PostgreSQL with assorted telephony
-components such as Twilio and Asterisk PBX.  Deployed on AWS.
+Technology stack: Primarily Python and PostgreSQL with assorted telephony
+components such as Twilio and Asterisk PBX. Deployed on AWS.
 
 
 **Atomic Labs (San Francisco CA)**<br>
@@ -97,8 +108,8 @@ with a lot of Java-based internal web services.  Deployed internally.
 Co-founded and helped lead a team building a comparison shopping engine for
 local stores.  Raised $5m in funding.  Acquired by eBay for $75m.
 
-Technology stack was primarily Python, Django and Flask with PostgreSQL and
-Redis databases.  Deployed on Heroku and AWS.
+Technology stack: Primarily Python, Django and Flask with PostgreSQL and Redis
+databases. Deployed on Heroku and AWS.
 
 
 **J.P. Evans, Inc. (Reston, VA)**<br>
@@ -107,8 +118,8 @@ Redis databases.  Deployed on Heroku and AWS.
 Founded and lead my own software development consulting company servicing
 Fortune 500 companies such as Freddie Mac and Verisign.
 
-Regrettably this period was filled with Lots of enterprise Java, JBoss, WebLogic
-and EJBs.  Deploy on-prem.
+Regrettably, this period was filled with Lots of enterprise Java, JBoss,
+WebLogic and EJBs. Deploy on-prem.
 
 
 ## Prior Experience
